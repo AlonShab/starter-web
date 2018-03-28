@@ -4,6 +4,7 @@ This is a simple web project to learn Git
 
 ## Purpose
 
-## Deplyment
+## Deployment
+Some insightful thoughts about depl
 
 ## How to Contribute
