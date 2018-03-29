@@ -9,7 +9,7 @@ This is a simple web project to learn Git
 Some insightful thoughts about depl
 
 ## How to Contribute
-Please fork this repo and issue pull requests
+Please fork this repo and issue pull requests for review
 
 ### Copyright
 notice
