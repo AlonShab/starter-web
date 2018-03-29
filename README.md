@@ -10,3 +10,6 @@ Some insightful thoughts about depl
 
 ## How to Contribute
 Send us a lot of money
+
+### Copyright
+notice
